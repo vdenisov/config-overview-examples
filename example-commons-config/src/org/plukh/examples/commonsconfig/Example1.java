@@ -10,8 +10,7 @@ International Journal of Open Information Technologies.
 This example demonstrates basic PropertiesConfiguration instantiation and file-based persistence
 
 By Victor S. Denisov, Lomonosov Moscow State University
- */
-
+*/
 
 public class Example1 {
     public static void main(String[] args) {

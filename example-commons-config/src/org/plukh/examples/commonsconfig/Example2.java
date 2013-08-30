@@ -12,7 +12,6 @@ This example demonstrates loading configuration from properties file into the Pr
 By Victor S. Denisov, Lomonosov Moscow State University
 */
 
-
 public class Example2 {
     public static void main(String[] args) {
         final PropertiesConfiguration conf = new PropertiesConfiguration();

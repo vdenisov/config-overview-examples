@@ -9,7 +9,7 @@ International Journal of Open Information Technologies.
 This example demonstrates an unexpected result when mixing Map and Properties methods
 
 By Victor S. Denisov, Lomonosov Moscow State University
- */
+*/
 
 public class Example3 {
 
