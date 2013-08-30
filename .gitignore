@@ -1,0 +1,9 @@
+*.properties
+
+/example-properties/out/
+/example-preferences/out/
+/example-commons-config/out
+
+/example-properties/.idea/workspace.xml
+/example-preferences/.idea/workspace.xml
+/example-commons-config/.idea/workspace.xml
