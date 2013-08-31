@@ -5,7 +5,7 @@ import org.apache.commons.configuration.event.ConfigurationEvent;
 import org.apache.commons.configuration.event.ConfigurationListener;
 
 /*
-Example #2 for the article "Overview of Java Application Configuration Frameworks" published in
+Example #5 for the article "Overview of Java Application Configuration Frameworks" published in
 International Journal of Open Information Technologies.
 
 This example demonstrates management of properties file layout via PropertiesConfigurationLayout class
